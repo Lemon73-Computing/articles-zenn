@@ -1,5 +1,5 @@
 # Articles in Zenn
-[Lemon73](https://zenn.dev/lemon73)がZennで公開している資料です。
+[Lemon73](https://zenn.dev/lemon73) が Zenn で公開している資料です。
 
 資料に誤字などがあった場合はPRを送っていただくとありがたいです。
 (コメント欄で指摘するのでも構いません。)
