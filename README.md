@@ -1,8 +1,34 @@
 # Articles in Zenn
-[Lemon73](https://zenn.dev/lemon73) が Zenn で公開している資料です。
 
-資料に誤字などがあった場合はPRを送っていただくとありがたいです。
-(コメント欄で指摘するのでも構いません。)
+- Link: <https://zenn.dev/lemon73>
+- RSS: <https://zenn.dev/lemon73/feed>
+
+## Summary
+
+My articles in Zenn.
 
 ## How to use
-Please read [Zenn CLI | Zenn](https://zenn.dev/zenn/articles/zenn-cli-guide).
+
+Please read [Zenn CLI - Zenn](https://zenn.dev/zenn/articles/zenn-cli-guide).
+
+### Show preview
+
+```sh
+npx zenn preview
+```
+
+### Create new article
+
+```sh
+npx zenn new:article
+# e.g.
+# npx zenn new:article --slug <article-slug> --title <title> --type idea --emoji ✨
+```
+
+### Create new book
+
+```sh
+npx zenn new:book
+# e.g.
+# npx zenn new:book --slug my-awesome-book
+```
